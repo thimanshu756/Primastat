@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+.custom-accordion {
+    border: none !important;
+  }
+
+  .gradient-shadow{
+    box-shadow:rgba(15, 172, 254, 0.5) 0px 10px 36px 0px, rgba(162, 12, 255, 0.5) 0px 0px 0px 1px;
+  }

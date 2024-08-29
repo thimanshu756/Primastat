@@ -1,0 +1,19 @@
+.containerr {
+    background-image: url('../../../public/Landing_Page_Assets/Home\ new.webp');
+    
+     /* background-image: url('https://asset.cloudinary.com/drelcjzi5/daeb63b6c052ccd9e1f1408118e5acf8'); */
+    background-color: #0000; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+
+}
+
+.textt {
+    background-image: linear-gradient(to bottom, #EAEAEA 100%, #EAEAEA 0%);
+
+}
+.text-50{
+    background-image: linear-gradient(to bottom, #EAEAEA 50%, #EAEAEA 0%);
+
+}
