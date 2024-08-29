@@ -87,9 +87,7 @@ const FlexBox = ({ texts, images, width }) => {
                   <Image
                     src={image}
                     alt={`image-${index}`}
-                    layout="fill"  // or the appropriate layout like "responsive" if fill isn't working as expected
                     priority={index === 0}  // prioritize loading the first image
-                    quality={100}  // adjust quality if needed, though SVGs aren't lossy
                   />
 
                 </SwiperSlide>
